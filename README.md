@@ -1,4 +1,4 @@
-# Sonar
-A batch file to disable Steel-Series SONAR unnecesary outputs.
+## Sonar debloater
+A bat to disable Steel-Series SONAR additional outputs.
 
-(Download)[https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat]
+### ★ [Download](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)

@@ -1,4 +1,4 @@
-# SteelSeries Sonar debloat
+# Sonar debloater
 A bat to disable Steel-Series SONAR additional outputs.
 
 ### How to use

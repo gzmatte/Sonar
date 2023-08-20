@@ -2,12 +2,11 @@
 
 </br> 
 
-
 > (Install Sonar and configurate mic first.)
 
-★ Open the bat after start sonar. It will automatically disable additional playback outputs.
+</br>
 
-</br> 
+★ Open the bat after start sonar. It will automatically disable additional playback outputs.
 
 ### ★ [Download here](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)
 

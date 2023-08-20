@@ -2,7 +2,7 @@
 
 </br>
 
-★ AFTER SONAR START, use the bat. It will automatically disable additional playback outputs.
+★ Once Sonar starts, use this bat. It will automatically disable additional playback outputs.
 
 ### ★ [Download here](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)
 

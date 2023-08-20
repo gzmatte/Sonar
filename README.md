@@ -1,6 +1,4 @@
 # Sonar debloater
-A bat to disable Steel-Series Sonar additional outputs.
-
 ### How to use
 > (Install Sonar and configurate it first)
 

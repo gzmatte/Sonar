@@ -5,8 +5,9 @@
 Open the bat after start sonar. Its gonna disable automatically the additional playback outputs.
 >  (Cause we only want the microphone).
 
-Default Sound output wrong?
-> Edit the bat file, go down and in the code, you can type your default output.
+Default Sound output wrong? 
+Edit batch file and go to
+
 ```
 :: Replace "Speakers" with your Default Sound Device Name.
 

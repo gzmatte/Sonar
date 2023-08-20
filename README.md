@@ -1,5 +1,5 @@
 # Sonar debloater
-A bat to disable Steel-Series SONAR additional outputs.
+A bat to disable Steel-Series Sonar additional outputs.
 
 ### How to use
 Open Sonar, configurate it.

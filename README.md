@@ -1,5 +1,4 @@
 ## If you use Sonar, you notice that you can't disable the sonar outputs in app, and if you only use this for the microphone, it's frustrating. So Enjoy.
-> (Install Sonar and configurate mic first.)
 
 </br>
 

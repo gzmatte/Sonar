@@ -1,4 +1,4 @@
-# If you use Sonar, you notice that u can't turn off sonar outputs, and if u only use this for the microphone, its frustrating. So, enjoy.
+## If you use Sonar, you notice that u can't turn off sonar outputs, and if u only use this for the microphone, its frustrating. So, enjoy.
 
 </br> 
 

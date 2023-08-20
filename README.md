@@ -7,5 +7,10 @@ Open the bat after start sonar. Its gonna disable automatically the additional p
 
 Default Sound output wrong?
 > Edit the bat file, go down and in the code, you can type your default output.
->
+```
+:: Replace "Speakers" with your Default Sound Device Name.
+
+SoundVolumeView.exe /SetDefault "Speakers"
+```
+
 ### ★ [Download](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)

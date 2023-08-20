@@ -1,4 +1,4 @@
-If you use Sonar, you notice that u can't turn off sonar outputs, and if u only use this for the microphone, its frustrating.
+If you use Sonar, you notice that u can't turn off sonar outputs, and if u only use this for the microphone, its frustrating. So, enjoy.
 
 ### How to use
 > (Install Sonar and configurate mic first.)

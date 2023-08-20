@@ -7,7 +7,7 @@ Open the bat after start sonar. It will automatically disable additional playbac
 
 </br> 
 
-### ★ [Download](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)
+### ★ [Download here](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)
 
 </br> 
 

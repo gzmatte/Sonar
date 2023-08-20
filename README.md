@@ -1,4 +1,6 @@
 # Sonar debloater
+If you use Sonar, you notice that u can't turn off sonar outputs, and if u only use this for the microphone, its frustrating.
+
 ### How to use
 > (Install Sonar and configurate mic first.)
 

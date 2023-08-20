@@ -2,7 +2,7 @@
 ### How to use
 > (Install Sonar and configurate mic first.)
 
-Open the bat after start sonar. Its gonna disable automatically the additional playback outputs.
+Open the bat after start sonar. It will automatically disable additional playback outputs.
 >  (Cause we only want the microphone).
 
 </br> 

@@ -18,3 +18,6 @@ Default Sound output wrong?
 
 SoundVolumeView.exe /SetDefault "Speakers"
 ```
+
+NOT WORKING?
+EDIT THE BAT AND CHANGE THE NAME OF ALL OF THE OUTPUTS.

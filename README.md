@@ -9,10 +9,8 @@ If you use Sonar, you notice that you can't disable the sonar outputs in app & i
 
 > Not working? Edit the batch file and Ualá!
 ```
-
 :: Replace "Speakers" with your Default Sound Device Name.
 
 SoundVolumeView.exe /SetDefault "Speakers"
-
 ```
 > If keeps failing, check the output names in the bat with your installed ones.

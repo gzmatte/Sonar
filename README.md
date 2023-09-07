@@ -1,8 +1,8 @@
 If you use Sonar, you notice that you can't disable the sonar outputs in app & if you only use this for the microphone, it's frustrating.
 
-★ Once Sonar starts, use the bat. It will automatically disable additional playback outputs.
-
 ### ★ [Download here](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)
+
+★ Once Sonar starts, use the bat. It will automatically disable additional playback outputs.
 
 </br>
 

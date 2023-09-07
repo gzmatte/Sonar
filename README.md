@@ -4,6 +4,8 @@ If you use Sonar, you notice that you can't disable the sonar outputs in app & i
 
 ### ★ [Download here](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)
 
+</br>
+
 > Not working? Edit the batch file and Ualá!
 
 ```

@@ -13,7 +13,7 @@
 </br>
 
 
-> If u have any problem with the Default OutPut or Outputs not disabling, Edit Sonar.bat 
+> If u have any problems with the Default outputs or Outputs not disabling, Edit Sonar.bat 
 ```
 :: Replace "Speakers" with your Default Sound Device Name.
 

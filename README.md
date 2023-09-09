@@ -1,7 +1,7 @@
 # Steel Series SONAR Debloater
 #### 1. Install Sonar and [configurate](https://yt.com) the app & Microphone in App.
-#### 2. [**Debloater Download**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
-#### 3. Open the downloaded file, and UALÁ!
+#### 2. [**Debloater batch**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
+#### 3. Open the .bat and UALÁ!
 
 #### This batch disables outputs and removes SteelSeries. U need to re-install to setup any settings again.
 

@@ -11,5 +11,4 @@
 :: Replace "Speakers" with your Default Sound Device Name.
 
 SoundVolumeView.exe /SetDefault "Speakers"
-
 ```

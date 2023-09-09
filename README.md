@@ -1,7 +1,7 @@
 ### 1. Install Sonar and configurate the microphone.
 ### 2. Open the bat, and UALÁ!
 
-★ [**Download bat**](https://github.com/gzmatte/sonar/releases/download/1/Sonar.bat)
+★ [**Download bat**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 
 </br>
 

@@ -1,5 +1,5 @@
 # Steel Series SONAR Debloater
-#### 1. Install Sonar and [configurate](https://yt.com) the app & Microphone in Sonar.
+#### 1. Install Sonar and [configurate](https://yt.com) the app & Microphone in App.
 #### 2. [**Download**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 #### 3. Open the downloaded file, and UALÁ!
 

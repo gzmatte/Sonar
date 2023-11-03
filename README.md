@@ -13,19 +13,26 @@
 </br>
 
 
-> If u have any problems like:
-> - After the bat the output isn't correct.
-> - Outputs not being disabled.
->
-> Edit the "Sonar.bat" in desktop.
-```
-:: Replace "Speakers" with your Default Sound Device Name.
+#### TROUBLESHOOTING SECTION
+
+Edit the "Sonar.bat" in desktop and click the problem you have:
+
+Outputs not being disabled.[1]
+
+Incorrect Sound output.[2]
+
+
+``` [1] 
+:: Replace "Speakers" with your Preferred Sound Device.
 
 SoundVolumeView.exe /SetDefault "Speakers"
 ```
 
-```
-:: If not works, replace the name of the outputs here:
+</br>
+
+
+```[2]
+:: Replace the name of the outputs in this section of the bat:
 
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Aux"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Gaming"

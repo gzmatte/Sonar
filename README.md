@@ -1,6 +1,6 @@
 ## Steel Series Sonar - Debloater
-### This batch disables outputs and removes SteelSeries.
-> U need to re-install if u need to modify any settings again.
+This batch disables outputs and removes SteelSeries.
+> U need to re-install if u need to modify any setting again.
 
 ------------------------
 
@@ -9,30 +9,25 @@
 #### 3. Open the .bat and UALÁ!
 
 
-
 </br>
 
 
 #### TROUBLESHOOTING SECTION
 
-Edit the "Sonar.bat" in desktop and click the problem you have:
+1- Edit the "Sonar.bat" in desktop.
+2- Find your problem and save the bat. 
 
-Outputs not being disabled.[1]
-
-Incorrect Sound output.[2]
-
-
-``` [1] 
+- Incorrect Sound output
+```
 :: Replace "Speakers" with your Preferred Sound Device.
 
 SoundVolumeView.exe /SetDefault "Speakers"
 ```
-
 </br>
 
-
-```[2]
-:: Replace the name of the outputs in this section of the bat:
+- Outputs not being disabled.
+```
+:: Replace the name of the outputs you want to disable in this section of the bat:
 
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Aux"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Gaming"

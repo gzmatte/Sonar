@@ -29,7 +29,7 @@ SoundVolumeView.exe /SetDefault "Speakers"
 
 #### Outputs not being disabled.
 ```
-:: Replace the name of the outputs you want to disable in this section of the bat:
+:: Replace the name of the outputs you want to disable in this section:
 
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Aux"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Gaming"

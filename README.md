@@ -4,26 +4,25 @@ This batch disables outputs and removes SteelSeries. [^1]
 
 ------------------------
 
-1. Install Sonar, configurate the app & microphone (in app).
-2. [**Download Bat**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
-3. Open the .bat and UALÁ!
+#### 1. Install Sonar, configurate the app & microphone (in app).
+#### 2. [**Download Bat**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
+#### 3. Open the .bat and UALÁ!
 
 </br>
 
-#### TROUBLESHOOTING SECTION
+# TROUBLESHOOTING
 
-1- Edit the "Sonar.bat" in desktop.
-2- Find your problem and save the bat. 
+1. Edit the "Sonar.bat" in desktop.
+2. Find your problem and save the bat.
 
-- Incorrect Sound output
+#### Incorrect Sound output
 ```
 :: Replace "Speakers" with your Preferred Sound Device.
 
 SoundVolumeView.exe /SetDefault "Speakers"
 ```
-</br>
 
-- Outputs not being disabled.
+#### Outputs not being disabled.
 ```
 :: Replace the name of the outputs you want to disable in this section of the bat:
 

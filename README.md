@@ -1,6 +1,6 @@
 # Steel Series Sonar - Debloater
 This batch disables outputs and removes SteelSeries. [^1]
-[^1]:U need to re-install if u need to modify any setting again.
+[^1]:U need to re-install Sonar if u need to modify any in-app setting.
 
 
 #### 1. Install Sonar, configurate the app & microphone (in app).

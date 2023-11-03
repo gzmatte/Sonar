@@ -10,17 +10,17 @@ This batch disables outputs and removes SteelSeries. [^1]
 </br>
 
 ------------------------
-</br>
 
 ## TROUBLESHOOTING
 
-Edit the "Sonar.bat" in desktop.
+If u have any problem with the outputs, Edit the "Sonar.bat" in desktop.
 
 </br>
 
 #### Incorrect Sound output.
 ```
-:: Replace "Speakers" with your Preferred Sound Device Name.
+:: This line sets your speaker after the bat.
+:: Replace "Speakers" with your favorite Output Name.
 
 SoundVolumeView.exe /SetDefault "Speakers"
 ```
@@ -28,7 +28,7 @@ SoundVolumeView.exe /SetDefault "Speakers"
 
 #### Outputs not being disabled.
 ```
-:: Replace the name of the outputs you want to disable in this section:
+:: Replace the name of the outputs you want to disable.
 
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Aux"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Gaming"
@@ -37,4 +37,6 @@ SoundVolumeView.exe /Disable "SteelSeries Sonar - Chat"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Stream"
 ```
 
-You can check the name of your outputs in the Sound panel in Windows, or just run mmsys.cpl
+You can check the name of your outputs in the Windows Sound panel, or just run mmsys.cpl
+
+

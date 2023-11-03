@@ -7,11 +7,17 @@ This batch disables outputs and removes SteelSeries. [^1]
 #### 2. [**Download Bat**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 #### 3. Open the .bat and UALÁ!
 
-</br>
+
+
 
 </br>
 
+
+
+
+
 </br>
+
 
 ------------------------
 

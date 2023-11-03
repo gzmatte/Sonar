@@ -1,6 +1,6 @@
 ## Steel Series Sonar - Debloater
-This batch disables outputs and removes SteelSeries. [1]
-[1] > U need to re-install if u need to modify any setting again.
+This batch disables outputs and removes SteelSeries. [^1]
+[^1] > U need to re-install if u need to modify any setting again.
 
 ------------------------
 
@@ -8,9 +8,7 @@ This batch disables outputs and removes SteelSeries. [1]
 #### 2. [**Download Bat**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 #### 3. Open the .bat and UALÁ!
 
-
 </br>
-
 
 #### TROUBLESHOOTING SECTION
 

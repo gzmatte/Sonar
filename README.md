@@ -15,9 +15,9 @@ This batch disables outputs and removes SteelSeries. [^1]
 ## TROUBLESHOOTING
 
 1. Edit the "Sonar.bat" in desktop.
-2. Find your problem and save the bat.
+2. Fix your problem and save.
 
-#### Incorrect Sound output
+#### Incorrect Sound output after bat.
 ```
 :: Replace "Speakers" with your Preferred Sound Device.
 

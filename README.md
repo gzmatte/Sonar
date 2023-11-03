@@ -2,13 +2,14 @@
 This batch disables outputs and removes SteelSeries. [^1]
 [^1]:U need to re-install if u need to modify any setting again.
 
-------------------------
 
 #### 1. Install Sonar, configurate the app & microphone (in app).
 #### 2. [**Download Bat**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 #### 3. Open the .bat and UALÁ!
 
 </br>
+
+------------------------
 
 ## TROUBLESHOOTING
 

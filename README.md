@@ -8,8 +8,8 @@ This batch disables outputs and removes SteelSeries. [^1]
 #### 3. Open the .bat and UALÁ!
 
 </br>
-
 ------------------------
+</br>
 
 ## TROUBLESHOOTING
 

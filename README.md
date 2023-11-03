@@ -23,7 +23,7 @@ This batch disables outputs and removes SteelSeries. [^1]
 
 ## TROUBLESHOOTING
 
-If u have any problem with the outputs, Edit the "Sonar.bat" in desktop.
+If u have any problem with the outputs, edit the "Sonar.bat" in desktop.
 
 </br>
 

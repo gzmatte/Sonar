@@ -29,7 +29,7 @@ If u have any problem with the outputs, edit the "Sonar.bat" in desktop.
 
 #### Incorrect Sound output.
 ```
-:: This line sets your speaker after the bat.
+:: This line sets the speaker you want to use.
 :: Replace "Speakers" with your favorite Output Name.
 
 SoundVolumeView.exe /SetDefault "Speakers"
@@ -38,7 +38,8 @@ SoundVolumeView.exe /SetDefault "Speakers"
 
 #### Outputs not being disabled.
 ```
-:: Replace the name of the outputs you want to disable.
+:: This line disables Sonar unnecessary outputs.
+:: Replace the name if not working.
 
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Aux"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Gaming"

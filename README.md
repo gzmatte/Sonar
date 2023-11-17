@@ -1,4 +1,4 @@
-# SONAR debloater for Windows 10
+# SteelSeries Sonar debloater
 
 This disables Steel-Series outputs and removes all SteelSeries. [^1]
 [^1]:Re-install Sonar if u need to modify any in-app setting.

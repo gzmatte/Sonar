@@ -1,11 +1,12 @@
-# Steel Series Debloater
-This batch is focused in Sonar, this disables Steel Series outputs and completly removes SteelSeries. [^1]
+# SONAR debloater for Windows 10
+
+This disables Steel-Series outputs and removes all SteelSeries. [^1]
 [^1]:Re-install Sonar if u need to modify any in-app setting.
 
 
-#### 1. Install Sonar, configurate the app & microphone (in app).
-#### 2. [**Download Bat**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
-#### 3. Open the .bat and UALÁ!
+#### 1. Install Sonar, configurate the app & microphone section.
+#### 2. [**Download**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
+#### 3. Open the batch and UALÁ!
 
 
 

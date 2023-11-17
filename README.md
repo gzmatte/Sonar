@@ -1,4 +1,4 @@
-#### This disables Steel-Series outputs and removes SteelSeries. [^1]
+### This disables Steel-Series outputs and removes SteelSeries. [^1]
 [^1]:Re-install Sonar if u need to modify any in-app setting.
 
 

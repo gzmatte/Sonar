@@ -1,6 +1,6 @@
-# Steel Series Sonar - Debloater
-This batch disables outputs and removes SteelSeries. [^1]
-[^1]:U need to re-install Sonar if u need to modify any in-app setting.
+# Steel Series Debloater (SONAR)
+This batch disables SteelSeries outputs and removes SteelSeries. [^1]
+[^1]:Re-install Sonar if u need to modify any in-app setting.
 
 
 #### 1. Install Sonar, configurate the app & microphone (in app).
@@ -23,7 +23,7 @@ This batch disables outputs and removes SteelSeries. [^1]
 
 ## TROUBLESHOOTING
 
-If u have any problem with the outputs, edit the "Sonar.bat" in desktop.
+If u have any of the following problems, edit the "Sonar.bat" in desktop.
 
 </br>
 
@@ -39,7 +39,7 @@ SoundVolumeView.exe /SetDefault "Speakers"
 #### Outputs not being disabled.
 ```
 :: This line disables Sonar unnecessary outputs.
-:: Replace the name if not working.
+:: Replace the name beetween "" if not working.
 
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Aux"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Gaming"
@@ -48,6 +48,6 @@ SoundVolumeView.exe /Disable "SteelSeries Sonar - Chat"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Stream"
 ```
 
-You can check the name of your outputs in the Windows Sound panel, or just run mmsys.cpl
+You can check the name of your outputs in the Windows Sound panel (just run mmsys.cpl)
 
 

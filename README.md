@@ -1,4 +1,4 @@
-# Steel Series Debloater 4 Sonar
+# Steel Series Debloater (Sonar)
 This batch disables SteelSeries outputs and removes SteelSeries. [^1]
 [^1]:Re-install Sonar if u need to modify any in-app setting.
 

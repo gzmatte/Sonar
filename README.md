@@ -13,13 +13,9 @@
 #### 2. [**Download**](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 #### 3. Open the batch and UALÁ!
 
-
-
+------------------------
 
 </br>
-
-
-------------------------
 
 ## TROUBLESHOOTING
 

@@ -9,4 +9,4 @@
 
 `2. Open the batch and UALÁ!`
 
-[](https://github.com/gzmatte/Sonar/blob/main/Troubleshooting.md)
+[X](https://github.com/gzmatte/Sonar/blob/main/Troubleshooting.md)

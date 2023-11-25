@@ -3,11 +3,10 @@
 **This disables Steel-Series outputs and removes SteelSeries.** [^1]
 [^1]:Re-install Sonar if u need to modify any in-app setting.
 
-</br>
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 
-`#### 1. Install Sonar, configurate the app & microphone section.`
-#### 2. [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
-#### 3. Open the batch and UALÁ!
+`1. Install Sonar, configurate the app & microphone section.`
+`2. Open the batch and UALÁ!`
 
 ------------------------
 

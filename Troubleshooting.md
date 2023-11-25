@@ -25,4 +25,7 @@ SoundVolumeView.exe /Disable "SteelSeries Sonar - Chat"
 SoundVolumeView.exe /Disable "SteelSeries Sonar - Stream"
 ```
 
+</br>
+
+
 You can check the name of your outputs in the Windows Sound panel (just run mmsys.cpl)

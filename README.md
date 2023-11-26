@@ -9,4 +9,6 @@
 
 `2. Open the batch and UALÁ!`
 
-[<img src="https://github.com/gzmatte/trash/blob/main/Troubleshooting49.png">](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
+-------
+
+[<img src="https://github.com/gzmatte/trash/blob/main/Troubleshooting49.png">](https://github.com/gzmatte/Sonar/blob/main/Troubleshooting.md)

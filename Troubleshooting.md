@@ -1,6 +1,5 @@
-## TROUBLESHOOTING
-
-If u have any of the following problems, edit the "Sonar.bat" in desktop.
+# TROUBLESHOOTING
+**If u have any of the following problems, edit the "Sonar.bat" in desktop.**
 
 </br>
 

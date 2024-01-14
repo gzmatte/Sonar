@@ -5,9 +5,10 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 
-### `1. Install Sonar, configurate the app & microphone section.`
+`1. Install Sonar, configurate the app & microphone section.`
 
 `2. Open the batch and UALÁ!`
+
 -------
 
 [<img src="https://github.com/gzmatte/trash/blob/main/Troubleshooting49.png">](https://github.com/gzmatte/Sonar/blob/main/Troubleshooting.md)

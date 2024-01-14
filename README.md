@@ -7,7 +7,7 @@
 
 `1. Install Sonar, configurate the app & microphone section.`
 
-`2. Open the batch and UALÁ!`
+`2. Download the batch and UALÁ!`
 
 -------
 

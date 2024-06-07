@@ -1,11 +1,16 @@
-## NEW VERSIONS OR W11 MAY NOT START STEEL SERIES.
-### FIX: START STEELSERIES FROM THE ORIGINAL SHORTCUT AND RUN THE BATCH.
-
-
-
+### NEWER VERSIONS OR W11 MAY NOT START STEEL SERIES.
+### JUST START STEELSERIES FROM THE ORIGINAL SHORTCUT AND RUN THE BATCH.
 
 
 </br>
+
+
+</br>
+
+---
+
+</br>
+
 
 **If u have any of the following problems, edit the "Sonar.bat" in desktop.**
 

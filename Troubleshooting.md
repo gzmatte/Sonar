@@ -3,6 +3,8 @@ YOU NEED TO START STEELSERIES FROM THE ORIGINAL SHORTCUT AND AFTER THAT, START T
 
 ---
 
+</br>
+
 **If u have any of the following problems, edit the "Sonar.bat" in desktop.**
 
 </br>

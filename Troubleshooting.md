@@ -3,8 +3,6 @@
 > ### **JUST START STEELSERIES FROM THE ORIGINAL SHORTCUT AND RUN THE BATCH.**
 
 
-</br>
-
 ---
 
 </br>

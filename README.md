@@ -1,10 +1,11 @@
 ![Sonar](https://github.com/gzmatte/Sonar/assets/117684932/cdd04ca8-a887-4461-a4db-3c2b48ed68c2)
 -------
-**This disables Steel-Series outputs and removes SteelSeries.** [^1]
+**This disables Steel-Series outputs and removes SteelSeries.**[^1]
+Why? I mean, who doesn't want an ecualizer & AI Voice cancellation and more for only 119mb of ram??
 [^1]:Re-install Sonar if u need to modify any in-app setting.
 
 > [!WARNING]
-> Newers versions may not work, i recommend [43.0.0](https://drivers.softpedia.com/dyn-postdownload.php/c40ab66dfa7bce230595106c96218392/6663476a/113714/0/1)
+> Newers versions may not work, u can try [43.0.0](https://drivers.softpedia.com/get/KEYBOARD-and-MOUSE/Steelseries/SteelSeries-GG-Utility-43-0-64-bit.shtml) or below.
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/sonar/releases/download/1/SS-Debloat.bat)
 

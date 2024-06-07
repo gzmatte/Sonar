@@ -2,7 +2,7 @@
 -------
 **This disables Steel-Series outputs and removes SteelSeries.**[^1]
 
-Why? I mean, who doesn't want an mic ecualizer, AI cancellation and more for only 119mb of ram??
+Why? I mean, who doesn't want a mic ecualizer, AI cancellation and more for only 119mb of ram??
 [^1]:Re-install Sonar if u need to modify any in-app setting.
 
 > [!WARNING]

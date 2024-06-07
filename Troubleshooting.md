@@ -8,7 +8,7 @@
 </br>
 
 
-### **If u have any of the following problems, edit the desktop batch**
+### **If u have any of the following problems, edit the desktop batch.**
 
 </br>
 

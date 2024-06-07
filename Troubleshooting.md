@@ -11,7 +11,7 @@
 </br>
 
 
-**If u have any of the following problems, edit the "Sonar.bat" in desktop.**
+### **If u have any of the following problems, edit the "Sonar.bat" in desktop.**
 
 </br>
 
